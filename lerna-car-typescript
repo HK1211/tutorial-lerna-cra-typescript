@@ -1,0 +1,7 @@
+lerna-cra-typescript
+    packages
+        common (CRA app + typescript)
+            Button-component
+        web (CRA app + typescript)
+
+https://www.youtube.com/watch?v=zQUpNa1hZIA

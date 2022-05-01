@@ -1,0 +1,8 @@
+{
+  "name": "@leehankue/root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": ["packages/*"]
+}
