@@ -1,7 +1,7 @@
 {
   "name": "@leehankue/common",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "./src/index.tsx",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
